@@ -1,2 +1,2 @@
 # gitpage
-test git
+存放博客源码

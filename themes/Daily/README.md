@@ -9,7 +9,7 @@ A simple theme for Hexo. Demo: :point_right: [Demo Site](https://hinpc.github.io
 ![Daily](https://ws3.sinaimg.cn/large/005BYqpgly1fytgsnuxnuj30rs0j5js0.jpg)
 
 ## Usage
-dddd
+dddd再次测试
 1. In the `root` directory:
     ```git
     $ git clone https://github.com/GallenHu/hexo-theme-Daily.git themes/Daily

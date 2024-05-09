@@ -7,7 +7,7 @@ A simple theme for Hexo. Demo: :point_right: [Demo Site](https://hinpc.github.io
 
 ## ScreenShot
 ![Daily](https://ws3.sinaimg.cn/large/005BYqpgly1fytgsnuxnuj30rs0j5js0.jpg)
-
+我也改了
 ## Usage
 dddd再次测试,zaa
 1. In the `root` directory:
